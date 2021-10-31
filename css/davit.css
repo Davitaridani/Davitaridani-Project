@@ -1,0 +1,11 @@
+.navbar a,
+li {
+    color: rgb(6, 77, 30);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caption h3,
+.light {
+    text-shadow: 1px 1px 6px rgb(2, 65, 10);
+    font-style: italic;
+}
